@@ -1,2 +1,2 @@
 # Stock-Management-Application
-Stock Management Application ( Database Management System
+Stock Management Application ( Database Management System )
