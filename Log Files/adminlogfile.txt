@@ -1,0 +1,30 @@
+INFO:root:Started At the Main Page
+INFO:root:Entered Admin login
+INFO:root:Started admin dashboard Page
+INFO:root:Admin viewing All trades.
+INFO:root:viewing All trades [[5, 'AAPL', 5000, 158], [6, 'AAPL', 2000, None], [8, 'AAPL', 5000, 158], [9, 'TSLA', 1000, 1091], [11, 'AAPL', 1000, 158], [12, 'TSLA', 10000, 1091], [13, 'AAPL', 1000, 158], [14, 'TSLA', 2000, 1091], [15, 'TSLA', 5000, 1091], [16, 'TSLA', 1000, 1091], [17, 'AAPL', 100, 158], [18, 'AAPL', 1000, 158]]
+INFO:root:Started admin dashboard Page
+INFO:root:Admin placing All trades.
+INFO:root:placing All trades [[5, 'AAPL', 5000, 158], [6, 'AAPL', 2000, None], [8, 'AAPL', 5000, 158], [9, 'TSLA', 1000, 1091], [11, 'AAPL', 1000, 158], [12, 'TSLA', 10000, 1091], [13, 'AAPL', 1000, 158], [14, 'TSLA', 2000, 1091], [15, 'TSLA', 5000, 1091], [16, 'TSLA', 1000, 1091], [17, 'AAPL', 100, 158], [18, 'AAPL', 1000, 158]]
+INFO:root:Started admin dashboard Page
+INFO:root:Admin placing All trades.
+INFO:root:placing All trades [[5, 'AAPL', 5000, 158], [6, 'AAPL', 2000, None], [8, 'AAPL', 5000, 158], [9, 'TSLA', 1000, 1091], [11, 'AAPL', 1000, 158], [12, 'TSLA', 10000, 1091], [13, 'AAPL', 1000, 158], [14, 'TSLA', 2000, 1091], [15, 'TSLA', 5000, 1091], [16, 'TSLA', 1000, 1091], [17, 'AAPL', 100, 158], [18, 'AAPL', 1000, 158]]
+INFO:root:Started admin dashboard Page
+INFO:root:Admin viewing All trades.
+INFO:root:viewing All trades [[5, 'AAPL', 5000, 158], [6, 'AAPL', 2000, None], [8, 'AAPL', 5000, 158], [9, 'TSLA', 1000, 1091], [11, 'AAPL', 1000, 158], [12, 'TSLA', 10000, 1091], [13, 'AAPL', 1000, 158], [14, 'TSLA', 2000, 1091], [15, 'TSLA', 5000, 1091], [16, 'TSLA', 1000, 1091], [17, 'AAPL', 100, 158], [18, 'AAPL', 1000, 158]]
+INFO:root:Started admin dashboard Page
+INFO:root:Admin viewing All trades.
+INFO:root:viewing All trades [[5, 'AAPL', 5000, 158], [6, 'AAPL', 2000, None], [8, 'AAPL', 5000, 158], [9, 'TSLA', 1000, 1091], [11, 'AAPL', 1000, 158], [12, 'TSLA', 10000, 1091], [13, 'AAPL', 1000, 158], [14, 'TSLA', 2000, 1091], [15, 'TSLA', 5000, 1091], [16, 'TSLA', 1000, 1091], [17, 'AAPL', 100, 158], [18, 'AAPL', 1000, 158]]
+INFO:root:Started admin dashboard Page
+INFO:root:Admin viewing All trades.
+INFO:root:viewing All trades [[5, 'AAPL', 5000, 158], [6, 'AAPL', 2000, None], [8, 'AAPL', 5000, 158], [9, 'TSLA', 1000, 1091], [11, 'AAPL', 1000, 158], [12, 'TSLA', 10000, 1091], [13, 'AAPL', 1000, 158], [14, 'TSLA', 2000, 1091], [15, 'TSLA', 5000, 1091], [16, 'TSLA', 1000, 1091], [17, 'AAPL', 100, 158], [18, 'AAPL', 1000, 158]]
+INFO:root:Started admin dashboard Page
+INFO:root:Admin viewing All trades.
+INFO:root:viewing All trades [[5, 'AAPL', 5000, 158], [6, 'AAPL', 2000, None], [8, 'AAPL', 5000, 158], [9, 'TSLA', 1000, 1091], [11, 'AAPL', 1000, 158], [12, 'TSLA', 10000, 1091], [13, 'AAPL', 1000, 158], [14, 'TSLA', 2000, 1091], [15, 'TSLA', 5000, 1091], [16, 'TSLA', 1000, 1091], [17, 'AAPL', 100, 158], [18, 'AAPL', 1000, 158]]
+INFO:root:Started admin dashboard Page
+INFO:root:Admin placing All trades.
+INFO:root:placing All trades [[5, 'AAPL', 5000, 158], [6, 'AAPL', 2000, None], [8, 'AAPL', 5000, 158], [9, 'TSLA', 1000, 1091], [11, 'AAPL', 1000, 158], [12, 'TSLA', 10000, 1091], [13, 'AAPL', 1000, 158], [14, 'TSLA', 2000, 1091], [15, 'TSLA', 5000, 1091], [16, 'TSLA', 1000, 1091], [17, 'AAPL', 100, 158], [18, 'AAPL', 1000, 158]]
+INFO:root:Started admin dashboard Page
+INFO:root:Admin can add compaines
+INFO:root:Started admin dashboard Page
+INFO:root:None

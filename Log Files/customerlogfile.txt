@@ -1,0 +1,33 @@
+INFO:root:start()
+INFO:root:Started At the Main Page
+INFO:root:create_account
+INFO:root:login
+INFO:root:mainLandingPage
+INFO:root:Search
+INFO:root:getCurrentStockPrice
+INFO:root:{'pagination': {'limit': 100, 'offset': 0, 'count': 1, 'total': 1}, 'data': [{'open': 159.57, 'high': 160.45, 'low': 156.36, 'close': 156.81, 'volume': 76959800.0, 'adj_high': None, 'adj_low': None, 'adj_close': 156.81, 'adj_open': None, 'adj_volume': None, 'split_factor': 1.0, 'dividend': 0.0, 'symbol': 'AAPL', 'exchange': 'XNAS', 'date': '2021-11-26T00:00:00+0000'}]}
+INFO:root:mainLandingPage
+INFO:root:ViewPortfolio
+INFO:root:SELECT companysharecode,quantity,purchasedprice FROM portfoliocustomer where customerssn = %s
+INFO:root:mainLandingPage
+INFO:root:PlaceOrder
+INFO:root:placeNewOrder
+INFO:root:searchBuyShare
+INFO:root:buyShare
+INFO:root:{'pagination': {'limit': 100, 'offset': 0, 'count': 1, 'total': 1}, 'data': [{'open': 159.57, 'high': 160.45, 'low': 156.36, 'close': 156.81, 'volume': 76959800.0, 'adj_high': None, 'adj_low': None, 'adj_close': 156.81, 'adj_open': None, 'adj_volume': None, 'split_factor': 1.0, 'dividend': 0.0, 'symbol': 'AAPL', 'exchange': 'XNAS', 'date': '2021-11-26T00:00:00+0000'}]}
+INFO:root:transactionForBuying
+INFO:root:displayMessage
+INFO:root:mainLandingPage
+INFO:root:PlaceOrder
+INFO:root:placeNewOrder
+INFO:root:mainLandingPage
+INFO:root:Search
+INFO:root:getCurrentStockPrice
+INFO:root:{'pagination': {'limit': 100, 'offset': 0, 'count': 1, 'total': 1}, 'data': [{'open': 1099.47, 'high': 1108.78, 'low': 1081.0, 'close': 1081.92, 'volume': 11680900.0, 'adj_high': None, 'adj_low': None, 'adj_close': 1081.92, 'adj_open': None, 'adj_volume': None, 'split_factor': 1.0, 'dividend': 0.0, 'symbol': 'TSLA', 'exchange': 'XNAS', 'date': '2021-11-26T00:00:00+0000'}]}
+INFO:root:mainLandingPage
+INFO:root:AddFunds
+INFO:root:Select funds from Project2.customer WHERE ssn = %s
+INFO:root:UPDATE Project2.customer SET funds = %s WHERE ssn = %s
+INFO:root:displayErrorMessage
+INFO:root:mainLandingPage
+INFO:root:None
